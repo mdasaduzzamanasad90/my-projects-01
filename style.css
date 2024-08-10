@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    height: 640px;
+    background-color: rgba(229, 84, 115, 0.11);
+}
+#header1{
+    width: 50%;
+    margin: 147px 10px 70px 150px;
+}
+#header-h{
+    font-size: 50px;
+    padding-bottom: 20px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+#header-p{
+    padding-bottom: 30px;
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.39);
+    line-height: 25px;
+    text-transform: capitalize;
+}
+#header-button{
+    padding: 20px 45px;
+    background-color: rgb(	229	84	115);
+    border-radius: 10px;
+    border: none;
+}
+#header-button-link{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+#header2{
+    width: 50%;
+    padding: 45px 15px 0px 20px;
+    position: relative;
+    bottom: -3px;
+}
+#content-1{
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+#content-2{
+    display: flex;
+}
+#item-1{
+    border-radius: 50px 50px 50px 50px;
+    width: 30%;
+    margin: 25px 10px 20px 100px;
+    background-color: rgba(229, 84, 115, 0.11);
+}
+#item-2{
+    border-radius: 50px 50px 50px 50px;
+    width: 30%;
+    margin: 25px 10px 20px;
+    padding-top: 70px;
+    background-color: rgba(5, 152, 160, 0.116);
+}
+#item-3{
+    border-radius: 50px 50px 50px 50px;
+    width: 30%;
+    margin: 25px 100px 20px 10px;
+    background-color: rgba(163, 190, 136, 0.233);
+}
+#content-text{
+    display: flex;
+    margin-bottom: 15px;
+}
+#shift{
+    margin: 80px 100px;
+    background-color: rgba(206, 206, 206, 0.274);
+    border-radius: 7px;
+}
+#shift-img{
+    display: flex;
+}
+#shift-text{
+    display: flex;
+    color: rgba(0, 0, 0, 0.603);
+    font-family: sans-serif;
+}
+#special-conten{
+    display: flex;
+    background-color: rgba(247, 203, 213, 0.137);
+}
+#content-flower{
+    display: flex;
+    margin: 0px 100px 0px 100px;
+}
+.flower-contact{
+    padding: 0px 20px 0px 0px;
+}
+#c-f{
+    padding-right: 0px;
+}
+#info{
+    background-image: url(/images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 350px;
+    margin: 80px 100px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 100px;
+}
+#info-1{
+    display: flex;
+}
+#footer{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.829);
+    background-color: rgb(32,32,32);
+    padding: 80px 250px;
+}
